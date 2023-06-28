@@ -1,0 +1,15 @@
+@use "tools";
+
+body {
+  font-family: Inter;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  background: var(--color-black-pearl-50);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
