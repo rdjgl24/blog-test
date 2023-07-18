@@ -15,3 +15,5 @@
 6. **Refactorizar poco a poco**: Revisar que patrones ya existen en el proyecto y extraerlos para ir mejorando el codigo.
 
 7. **Comunicar inconsistencias**: Aveces podemos encontrar inconsistencias en el codigo o en el diseño, es importante preguntar por que esta asi.
+
+si
